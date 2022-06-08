@@ -2,8 +2,8 @@
     "theme_color": "#121212",
     "background_color": "#121212",
     "display": "standalone",
-    "scope": ".",
-    "start_url": ".",
+    "scope": "/",
+    "start_url": "/",
     "name": "Melodify",
     "short_name": "Melodify",
     "icons": [
