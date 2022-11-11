@@ -1,3 +1,3 @@
 module.exports = {
-  dbURL: '',
+  dbURL: process.env.DBHOST,
 }
